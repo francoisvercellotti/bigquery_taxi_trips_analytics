@@ -8,6 +8,6 @@ google-cloud-storage==3.0.0
 numpy==2.2.2
 pandas==2.2.3
 py4j==0.10.9.7
-pyarrow==19.0.0
+pyarrow==23.0.1
 pyspark==3.5.4
 scikit-learn==1.6.1
